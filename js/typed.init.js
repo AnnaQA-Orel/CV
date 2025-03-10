@@ -5,6 +5,6 @@ var typed = new Typed('#typed', {
     typeSpeed: 200,
     loop: true,
     strings: [
-        'QA engineer', 'Тестировщик ПО',
+        'QA Engineer', 'Тестировщик ПО',
     ],
 });
